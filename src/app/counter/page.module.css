@@ -1,0 +1,32 @@
+.inputSomar {
+    color: rgb(85, 224, 30);
+    border: 1.5px dotted black;
+}
+
+.inputSubtrair { 
+    color:brown ;
+    border: 1.5px dotted black;
+}
+
+.inputMultiplicar { 
+    color:aqua;
+    border: 1.5px dotted black; 
+}
+
+.inputDividir {
+    color:blueviolet ;
+    border: 1.5px dotted black;
+}
+
+.red {
+    color:red
+
+}
+
+.green {
+    color:green
+}
+
+.black {
+    color:black
+}
